@@ -2,7 +2,11 @@ body {
        background:  #CCCCCC;
 }
 
-p {
+h1 {
+    text-align: center;
+    }
+
+p1 {
        text-align: center;
        background:   #CCCCCC;
 }
